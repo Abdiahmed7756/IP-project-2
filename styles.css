@@ -54,3 +54,9 @@ h4{
     color: rgb(25, 2, 51);
     width: 1200px;
 }
+footer{
+    padding: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgb(52, 52, 245);
+}
