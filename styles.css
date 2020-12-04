@@ -1,0 +1,18 @@
+nav {
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: right;
+    font-size: medium;
+}
+nav a {
+    background-color: cornsilk;
+    color: black;
+    padding: 5px;
+}
+nav a :hover{
+    padding: 2px;
+    background-color: brown;
+}
+h1{
+    text-align: center;
+}
